@@ -20,7 +20,7 @@
   
 ### Tenho interesse em aprender:
 
-![Java](http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png)
+![Java]()
 
   ### Atualmente aprendendo:
   
