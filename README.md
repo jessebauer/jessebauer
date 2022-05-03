@@ -2,6 +2,8 @@
 
 # Olá, eu sou o Jessé!!
 
+  Seja muito bem vindo, aqui nos meus repositórios você vai encontrar projetos e exercícios realizados a fins de aprendizado.
+  
 ## Você pode me encontrar aqui:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-muehlbauer/)
