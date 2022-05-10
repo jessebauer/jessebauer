@@ -10,10 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesseruan/)
 
 ## Meus dados:
-
- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&langs_count=8&hide_border=true&theme=darktonight&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&theme=dark)
  
-  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessebauer&show_icons=true&theme=tokyonight)
   
 ![Jessé](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&theme=tokyonight)
