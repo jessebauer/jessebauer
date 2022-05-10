@@ -13,6 +13,8 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessebauer&show_icons=true&theme=tokyonight)
   
+ <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&langs_count=7&theme=github_dark"/>
+  
 ![Jessé](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&theme=tokyonight)
 
 ## Minhas linguagens:
