@@ -1,6 +1,6 @@
 <span style="font-family:ISOCPEUR;">
 
-# Olá, eu sou o Jessé!!
+# Olá, eu sou o Jessé!
 
   Seja muito bem vindo, aqui nos meus repositórios você vai encontrar projetos e exercícios realizados a fins de aprendizado.
   
