@@ -13,7 +13,7 @@
 
 ![Jessé GitHub stats](https://github-readme-stats.vercel.app/api?username=jessebauer&show_icons=true&theme=tokyonight)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact)](https://github.com/jessebauer/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=tokyonight)](https://github.com/jessebauer/github-readme-stats)
 
   
 ![Jessé](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&theme=tokyonight)
