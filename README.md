@@ -11,6 +11,9 @@
 
 ## Meus dados:
 
+ ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&langs_count=8&hide_border=true&theme=darktonight&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+ 
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessebauer&show_icons=true&theme=tokyonight)
   
 ![Jessé](https://github-readme-stats.vercel.app/api/top-langs/?username=jessebauer&layout=compact&theme=tokyonight)
