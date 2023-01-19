@@ -2,8 +2,7 @@
 
 # Olá, eu sou o Jessé!
 
-  Seja muito bem vindo! Aqui nos meus repositórios você vai encontrar projetos e códigos de exercícios de programação.
-  Atualmente estou aprendendo a linguagem de programação C# por meio da instituição de ensino SENAC e do Entra21.
+  Seja muito bem vindo! Aqui nos meus repositórios você vai encontrar projetos que desenvolvi para fins de estudo e aprendizado. Fique à vontade para explorar e deixar qualquer comentário ou sugestão. Obrigado por visitar
   
 ## Você pode me encontrar aqui:
 
