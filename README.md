@@ -30,5 +30,3 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![Snake animation](https://github.com/jessebauer/jessebauer/blob/output/github-contribution-grid-snake.svg)
-  
-  <img src="https://camo.githubusercontent.com/275cc6bc02f7c360e663933b52608cb8854cddc7c09b2e26cfaa1da4ada15477/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7961736d696e64656d61746f732f636f756e742e7376673f" data-canonical-src="https://profile-counter.glitch.me/jessebauer/count.svg?" style="max-width: 100%;">
